@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Python Basics Repository</title>
 </head>
 <body>
 
@@ -41,7 +40,6 @@
     <h2>🚀 Getting Started</h2>
     <p>To start using the code examples, simply clone the repository:</p>
     <pre><code>
-git clone https://github.com/your-username/python-basics.git
-cd python-basics
+git clone https://github.com/Rajesh-Umrao/Python_Basics.git
     </code></pre>
     <p>You can then explore the different Python scripts and 
